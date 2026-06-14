@@ -1,0 +1,7 @@
+date,description,amount,paid_by,category,currency
+2026-06-10,Grocery Purchase,1200,admin,Utilities,INR
+2026-06-11,Dinner with Team,150,admin,Food & Drinks,USD
+2026-06-12,Taxi Ride,45,admin,Transport,INR
+2026-06-12,Taxi Ride,45,admin,Transport,INR
+2026-06-13,Future Cab Expense,300,admin,Transport,INR
+2026-06-14,Invalid Row,,admin,,
